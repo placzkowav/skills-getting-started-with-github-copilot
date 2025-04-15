@@ -81,6 +81,13 @@ section h3 {
   color: #555;
 }
 
+.participatnts{
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: disc;
+  color: #555;
+}
+
 .activity-card ul li {
   margin-bottom: 5px;
   font-size: 14px;
